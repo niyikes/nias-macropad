@@ -68,3 +68,4 @@ I'm planning on making the entire thing more interesting later...
 - 1x Custom PCB
 - 3D printed top plate & bottom case
 - 4x M3 bolts & heatset inserts
+- 4x M3 bolts & heatset inserts
