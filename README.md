@@ -20,19 +20,20 @@ i think i'm also going to paint the top case later!
 - 1 EC11 Rotary encoder
 - 6 keys
 
-<img width="960" alt="final macropad assembled" src="https://github.com/user-attachments/assets/7fde7620-1a69-4aa7-b3e0-34c0ecf64e69" />
+<img width="900" alt="final macropad assmb" src="https://github.com/user-attachments/assets/1f33ebeb-52d3-40a9-93f0-acec7cc553ce" />
 
-<img width="1189" alt="CAD Model" src="https://github.com/user-attachments/assets/3fd4fbd6-ab34-406e-af7c-99f8d61320ff" />
+
+<img width="900" alt="CAD Model" src="https://github.com/user-attachments/assets/3fd4fbd6-ab34-406e-af7c-99f8d61320ff" />
 
 ### PCB & Schematics
 
 <table>
 <tr>
 <td width="50%">
-<img width="205" alt="PCB" src="https://github.com/user-attachments/assets/320e209a-ff8f-4d13-a3d3-85ca91b5c41c" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/1ae79c41-eadd-4e24-a3c5-9ec6156aa599" />
 </td>
 <td width="50%">
-<img width="301" alt="Schematics" src="https://github.com/user-attachments/assets/9c76f049-2b70-4683-bd14-61efb99ac4fe" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/9da1de26-4702-4888-be87-8c8009809764" />
 </td>
 </tr>
 <tr>
