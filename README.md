@@ -20,20 +20,20 @@ i think i'm also going to paint the top case later!
 - 1 EC11 Rotary encoder
 - 6 keys
 
-<img width="900" alt="final macropad assmb" src="https://github.com/user-attachments/assets/1f33ebeb-52d3-40a9-93f0-acec7cc553ce" />
+<img width="900" alt="very final macropad assmb p" src="https://github.com/user-attachments/assets/8048de74-1ea1-462a-a4fd-13990753d4e0" />
 
 
-<img width="900" alt="CAD Model" src="https://github.com/user-attachments/assets/3fd4fbd6-ab34-406e-af7c-99f8d61320ff" />
+<img width="900" alt="Screenshot 2026-01-17 135416" src="https://github.com/user-attachments/assets/054d8211-1fe8-4fbe-8825-12e7862a369c" />
 
 ### PCB & Schematics
 
 <table>
 <tr>
 <td width="50%">
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/1ae79c41-eadd-4e24-a3c5-9ec6156aa599" />
+<img width="500" alt="PCB" src="https://github.com/user-attachments/assets/63c823c0-f0c7-4d97-90a0-f11ec93f7674" />
 </td>
 <td width="50%">
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/9da1de26-4702-4888-be87-8c8009809764" />
+<img width="500" alt="Schematics" src="https://github.com/user-attachments/assets/bd6d6d42-e560-4a53-875f-182bb0bf2481" />
 </td>
 </tr>
 <tr>
@@ -67,6 +67,6 @@ I'm planning on making the entire thing more interesting later...
 - 1x Rotary encoder knob
 - 1x SSD1306 OLED display (128x32, I2C)
 - 1x Custom PCB
-- 3D printed top plate & bottom case
+- 3D printed top plate & bottom case (preferred color: pastel blue, or any other pastel color) 
 - 4x M3 bolts & heatset inserts
 - 4x M3 bolts & heatset inserts
